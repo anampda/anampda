@@ -1,0 +1,9 @@
+# 👋 Hi, I’m Ana!
+### About me:
+- I'm a MSc student in **Engineering Physics** at University of Aveiro.
+- 👀 I’m interested in ...
+- 🌱 I’m currently working
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
