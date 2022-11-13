@@ -11,4 +11,4 @@ I am always learning new things and working on small projects!
 ### 🛠️ Softwares and Tools
  
 
-### Let's chat!
+### <p align="center"> Let's chat! </p>
