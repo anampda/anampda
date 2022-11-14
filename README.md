@@ -8,7 +8,7 @@ I am always learning new things and working on small projects!
 ### 💻 Languages 
 
 
-### 🛠️ Softwares and Tools
+### 🛠️ Tools
  
 
 ### <p align="center"> Let's chat! </p>
