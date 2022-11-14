@@ -13,4 +13,4 @@ I am always learning new things and working on small projects!
 
 ### <p align="center"> Let's chat! </p>
 
-<p align="center"> <img src = "readme-icons/home-2-fill.png" width = 30> <img src = "readme-icons/mail-fill.png" width = 30> <img src = "readme-icons/linkedin-fill.png" width = 30> </p>
+<p align="center"> <img src = "readme-icons/home-2-fill.png" width = 30> <img src = "readme-icons/mail-fill.png" width = 30> <img src = "readme-icons/linkedin-box-fill.png" width = 30> </p>
